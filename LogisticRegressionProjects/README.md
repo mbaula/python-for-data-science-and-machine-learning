@@ -1,0 +1,2 @@
+# LogisticRegressionProjects
+Logistic Regression projects
